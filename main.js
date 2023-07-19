@@ -52,3 +52,6 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     });
 });
+
+var form = document.getElementById('createAccount');
+window.alert(form);
